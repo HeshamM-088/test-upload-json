@@ -18,7 +18,7 @@ const Header = () => {
               Home
             </Nav.Link>
             <Nav.Link as={Link} to="/products">
-              Link
+              Products
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
